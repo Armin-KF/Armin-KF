@@ -19,4 +19,6 @@ I'm currently diving deeper into backend technologies to enhance my full-stack d
 
 Let's collaborate and build captivating web experiences together!
 
+Contact Me via my Linkedin https://www.linkedin.com/in/armin-karami?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
