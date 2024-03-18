@@ -1,24 +1,20 @@
-# Hi there! 👋 I'm @ArminKafe , a Web Developer
+## Hi there! 👋
 
-Welcome to my GitHub profile! I specialize in creating seamless user interfaces and delightful user experiences using React.js. With a strong passion for frontend development, I strive to craft visually appealing and responsive web applications.
+I'm [@ArminKafe], a passionate web developer proficient in HTML, CSS, and JavaScript. With experience in Node.js, Express.js, and authentication for web applications, I specialize in building robust and secure backend and frontend solutions, including RESTful APIs.
 
-## 💻 Technologies & Tools
+### Skills:
 
-- **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Frontend:** React.js
-- **Backend:** Currently learning Node.js
-- **Tools:** Git, GitHub, VS Code
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- REST APIs: Design, development, and integration
+- Authentication: OAuth, JWT
+- Database: MongoDB
+- Tools & Technologies: Git, VS Code, Postman
 
-## 🌱 Currently Learning
+### About Me:
 
-I'm currently diving deeper into backend technologies to enhance my full-stack development skills. Here's what I'm exploring:
+I thrive on challenges and love to explore new technologies to enhance my skills. I'm dedicated to creating efficient and user-friendly web applications that meet the needs of clients and users alike.
 
-- Building RESTful APIs with Node.js
--  Building server-rendered applications with Next.js
-- Authentication and Authorization in web applications
+### Get in Touch:
 
-Let's collaborate and build captivating web experiences together!
-
-Contact me via [LinkedIn](https://www.linkedin.com/in/armin-karami)
-
-
+📧 Email: Armindevacc@gmail.com
