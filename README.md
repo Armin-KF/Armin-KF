@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Armin, a passionate web developer proficient in HTML, CSS, and JavaScript. With experience in Node.js, Express.js, and authentication for web applications, I specialize in building robust and secure backend and frontend solutions, including RESTful APIs.
+I'm Armin, a passionate web developer proficient in HTML, CSS, and JavaScript. With experience in Node.js, Express.js , Go , and authentication for web applications, I specialize in building robust and secure backend and frontend solutions, including RESTful APIs.
 
 ### Skills:
 
