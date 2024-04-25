@@ -5,7 +5,7 @@ I'm Armin, a passionate web developer proficient in HTML, CSS, and JavaScript. W
 ### Skills:
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js , Go
 - REST APIs: Design, development, and integration
 - Authentication: OAuth, JWT
 - Database: MongoDB
