@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! 👋, I'm Armin</h1>
-<h3 align="center">A passionate developer proficient in HTML, CSS, JavaScript, Go, and Python.</h3>
+<h3 align="center">A dedicated developer with expertise in HTML, CSS, JavaScript, Go, and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Armin&label=Profile%20views&color=0e75b6&style=flat" alt="Armin" /> </p>
 
-- 🔭 I’m currently working on **various web applications**
+- 🔭 I have successfully developed and deployed **various web applications**
 
-- 🌱 I’m currently learning **advanced Go and Python concepts**
+- 🌱 I possess in-depth knowledge of **advanced Go and Python concepts**
 
-- 💬 Ask me about **Node.js, Express.js, and RESTful APIs**
+- 💬 I am proficient in **Node.js, Express.js, and RESTful APIs**
 
-- 📫 How to reach me **Armindevacc@gmail.com**
+- 📫 Feel free to reach out to me at **Armindevacc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +26,9 @@
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
