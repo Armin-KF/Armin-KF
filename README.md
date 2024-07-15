@@ -9,8 +9,6 @@
 
 - 💬 I am proficient in **Node.js, Express.js, and RESTful APIs**
 
-- 📫 Feel free to reach out to me at **Armindevacc@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:Armindevacc@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="30" width="40" /></a>
