@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋, I'm Armin</h1>
 <h3 align="center">A dedicated developer with expertise in HTML, CSS, JavaScript, Go, and Python.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Armin&label=Profile%20views&color=0e75b6&style=flat" alt="Armin" /> </p>
+<
 
 - 🔭 I have successfully developed and deployed **various web applications**
 
