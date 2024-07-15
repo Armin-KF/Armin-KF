@@ -1,20 +1,54 @@
-# Hi there! 👋
+<h1 align="center">Hi there! 👋, I'm Armin</h1>
+<h3 align="center">A passionate developer proficient in HTML, CSS, JavaScript, Go, and Python.</h3>
 
-I'm **Armin**, a passionate developer proficient in HTML, CSS, JavaScript, Go, and Python. With experience in Node.js, Express.js, and authentication for web applications, I specialize in building robust and secure backend and frontend solutions, including RESTful APIs.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Armin&label=Profile%20views&color=0e75b6&style=flat" alt="Armin" /> </p>
 
-## Skills:
+- 🔭 I’m currently working on **various web applications**
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, Go
-- **REST APIs:** Design, development, and integration
-- **Authentication:** OAuth, JWT
-- **Database:** MongoDB
-- **Tools & Technologies:** Git, VS Code, Postman
+- 🌱 I’m currently learning **advanced Go and Python concepts**
 
-## About Me:
+- 💬 Ask me about **Node.js, Express.js, and RESTful APIs**
 
-I thrive on challenges and love to explore new technologies to enhance my skills. I'm dedicated to creating efficient and user-friendly web applications that meet the needs of clients and users alike.
+- 📫 How to reach me **Armindevacc@gmail.com**
 
-## Get in Touch:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:Armindevacc@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="30" width="40" /></a>
+</p>
 
-📧 [Armindevacc@gmail.com](mailto:Armindevacc@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+</p>
