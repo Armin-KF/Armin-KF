@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋, I'm Armin</h1>
+<h1 align="center">Hi there! 👋 I'm Armin</h1>
 <h3 align="center">A dedicated developer with expertise in HTML, CSS, JavaScript, Go, and Python.</h3>
 
 
