@@ -7,7 +7,7 @@
 
 - 🌱 I possess in-depth knowledge of **advanced Go and Python concepts**
 
-- 💬 I am proficient in **Node.js, Express.js, and RESTful APIs**
+- 💬 I am proficient in **Node.js, Express.js , and RESTful APIs**
 
 - 📚 I am continually expanding my knowledge and skills.
 
