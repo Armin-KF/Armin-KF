@@ -14,22 +14,16 @@
 
 <h3 align="left">Languages & Tools I Use:</h3>
 
-<!-- Keep your current icons, they’re great. -->
 <p align="left">
-    <!-- Programming -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
-    <!-- Web / Backend -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-    <!-- ML & Data -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
-    <!-- Tools -->
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
 </p>
