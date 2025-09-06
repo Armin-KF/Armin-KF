@@ -4,6 +4,7 @@
 - I work a lot with **Grafana**, **Elasticsearch**, and **Bash** to debug issues, check logs, and automate stuff.  
 - Comfortable with **Node.js**, **Express**, **MongoDB**, **SQL**, and building REST APIs.  
 - I also deal with monitoring, logging, and keeping services reliable on a daily basis.  
+- Interested in security and learning more about it as I go.  
 - Always learning and improving my skills along the way.  
 
 <h3 align="left">Let's Connect:</h3>
@@ -18,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
