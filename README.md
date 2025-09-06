@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Armin 👋</h1>
+<h1 align="center">Hi, I'm Armin</h1>
 
-- 🚀 I'm a backend-focused developer with real-world experience building and monitoring scalable systems in production.
-- 🔍 I work closely with tools like **Grafana**, **Elasticsearch**, and **PowerShell** to analyze data, debug live services, and automate internal operations.
-- 🛠️ I have hands-on experience with **Node.js**, **Express**, **MongoDB**, **SQL** and RESTful APIs.
-- 🖥️ I regularly work with enterprise-level systems, supporting monitoring, logging, and service reliability workflows.
-- 📚 I'm constantly expanding my skills
+- I'm a backend-focused developer with real-world experience building and keeping systems running in production.  
+- I work a lot with **Grafana**, **Elasticsearch**, and **Bash** to debug issues, check logs, and automate stuff.  
+- Comfortable with **Node.js**, **Express**, **MongoDB**, **SQL**, and building REST APIs.  
+- I also deal with monitoring, logging, and keeping services reliable on a daily basis.  
+- Always learning and improving my skills along the way.  
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
@@ -24,6 +24,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
 </p>
