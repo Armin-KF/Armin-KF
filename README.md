@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Armin</h1>
 
 - Backend Engineer with a strong focus on Platform Engineering and Infrastructure.
@@ -9,18 +8,16 @@
 - Interested in platform engineering, cybersecurity, networking, and distributed systems.
 
 <p align="left">
-  <a href="https://playlan.ir">
-    <img src="./assets/PLLOGO.PNG" alt="PlayLAN" height="32" />
-  </a>
-</p>
-
-<p align="left">
   <a href="mailto:Armindevacc@gmail.com">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="32" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/armin-karami/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="32" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://playlan.ir">
+    <img src="./assets/PLLOGO.PNG" alt="PlayLAN" height="40" />
   </a>
 </p>
 
@@ -43,4 +40,3 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
-
