@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://playlan.ir">
-    <img src="https://playlan.ir/IMG_9529.PNG" alt="PlayLAN" width="180" />
+    <img src="./assets/PLLOGO.PNG" alt="PlayLAN" width="180" />
   </a>
 </p>
 
-- Backend & Platform Engineer focused on building scalable services and reliable infrastructure.
+- Backend Engineer with a strong focus on Platform Engineering and Infrastructure.
 - Building PlayLAN, a distributed gaming platform focused on low-latency networking and service reliability.
 - Experienced with Docker, Linux, PostgreSQL, Redis, observability, and production operations.
 - Building backend services and APIs with Node.js, Go, Express, Gin, SQL, and NoSQL databases.
@@ -14,8 +14,12 @@
 - Interested in platform engineering, cybersecurity, networking, and distributed systems.
 
 <p align="left">
-<a href="mailto:Armindevacc@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="30" /></a>
-<a href="https://www.linkedin.com/in/armin-karami/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" height="30" /></a>
+<a href="mailto:Armindevacc@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/armin-karami/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" height="30" />
+</a>
 </p>
 
 <h3 align="left">Tech Stack</h3>
