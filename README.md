@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://playlan.ir">
-    <img src="./assets/PLLOGO.PNG" alt="PlayLAN" width="180" />
+    <img src="./assets/PLLOGO.PNG" alt="PlayLAN" width="120" />
   </a>
 </p>
 
@@ -13,13 +13,14 @@
 - Comfortable working with monitoring, logging, automation, CI/CD, and self-hosted infrastructure.
 - Interested in platform engineering, cybersecurity, networking, and distributed systems.
 
-<p align="left">
-<a href="mailto:Armindevacc@gmail.com">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="30" />
-</a>
-<a href="https://www.linkedin.com/in/armin-karami/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" height="30" />
-</a>
+<p align="center">
+  <a href="mailto:Armindevacc@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/armin-karami/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" />
+  </a>
 </p>
 
 <h3 align="left">Tech Stack</h3>
