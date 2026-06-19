@@ -7,9 +7,9 @@
 </p>
 
 - Backend & Platform Engineer focused on building scalable services and reliable infrastructure.
-- Building PlayLAN (https://playlan.ir), a distributed gaming platform focused on low-latency networking and service reliability.
+- Building PlayLAN, a distributed gaming platform focused on low-latency networking and service reliability.
 - Experienced with Docker, Linux, PostgreSQL, Redis, observability, and production operations.
-- Building backend services and APIs with Node.js, Express, SQL, and NoSQL databases.
+- Building backend services and APIs with Node.js, Go, Express, Gin, SQL, and NoSQL databases.
 - Comfortable working with monitoring, logging, automation, CI/CD, and self-hosted infrastructure.
 - Interested in platform engineering, cybersecurity, networking, and distributed systems.
 
@@ -23,6 +23,7 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
