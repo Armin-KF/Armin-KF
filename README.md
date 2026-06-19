@@ -1,28 +1,38 @@
 <h1 align="center">Hi, I'm Armin</h1>
 
-- I'm a backend-focused developer with experience building and keeping systems running in production.  
-- I work a lot with **Grafana**, **Elasticsearch**, and **Bash** to debug issues, check logs, and automate stuff.  
-- Comfortable with **Node.js**, **Express**, **MongoDB**, **SQL**, and building REST APIs.  
-- I also deal with monitoring, logging, and keeping services reliable on a daily basis.  
-- Interested in security and learning more about it as I go.  
+<p align="center">
+  <a href="https://playlan.ir">
+    <img src="https://playlan.ir/IMG_9529.PNG" alt="PlayLAN" width="180" />
+  </a>
+</p>
+
+- Backend & Platform Engineer focused on building scalable services and reliable infrastructure.
+- Building PlayLAN (https://playlan.ir), a distributed gaming platform focused on low-latency networking and service reliability.
+- Experienced with Docker, Linux, PostgreSQL, Redis, observability, and production operations.
+- Building backend services and APIs with Node.js, Express, SQL, and NoSQL databases.
+- Comfortable working with monitoring, logging, automation, CI/CD, and self-hosted infrastructure.
+- Interested in platform engineering, cybersecurity, networking, and distributed systems.
 
 <p align="left">
 <a href="mailto:Armindevacc@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="30" /></a>
 <a href="https://www.linkedin.com/in/armin-karami/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" height="30" /></a>
 </p>
 
-<h3 align="left">Stack:</h3>
+<h3 align="left">Tech Stack</h3>
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" />
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
